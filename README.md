@@ -7,7 +7,7 @@
 ### Planned Projects
 `TidalxSpotify Converter`
 
-`Remake of Cheat Engine`
+`Cheat Engine Remake`
 
 ### My Languages:
     Java *Intermediate*
@@ -22,5 +22,5 @@
 
 ### About Me:
     Hello, I'm a novice developer who likes to code as a hobby. I tend to work on projects game related and I'm 
-    actively working to learn about programming languages and their applications!
+    actively working to learn more programming languages and their applications!
     The real journey starts now ... (2/9/24 1:23 AM)
