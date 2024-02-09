@@ -1,16 +1,26 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**C9Bad/C9Bad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Projects:
+`N/A`
+😢
 
-Here are some ideas to get you started:
+### Planned Projects
+`TidalxSpotify Converter`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Remake of Cheat Engine`
+
+### My Languages:
+    Java *Intermediate*
+    AHKv2 *Intermediate*
+    C++ *Novice*
+    Rust *Plan to learn*
+    Python *Plan to learn*
+    HTML *Plan to learn*
+    JS *Plan to learn*
+    
+    
+
+### About Me:
+    Hello, I'm a novice developer who likes to code as a hobby. I tend to work on projects game related and I'm 
+    actively working to learn about programming languages and their applications!
+    The real journey starts now ... (2/9/24 1:23 AM)
