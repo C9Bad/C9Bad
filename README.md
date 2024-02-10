@@ -1,12 +1,14 @@
 # Welcome!
 
+### Current Undertaking
+`Learning Rust to make TidalxSpotify App`
+
 ### My Projects:
 `N/A`
 😢
 
 ### Planned Projects
 `TidalxSpotify Converter`
-
 `Cheat Engine Remake`
 
 ### My Languages:
@@ -14,6 +16,7 @@
     AHKv2 *Intermediate*
     C++ *Novice*
     Rust *Plan to learn*
+    Assembly *Plan to learn*
     Python *Plan to learn*
     HTML *Plan to learn*
     JS *Plan to learn*
