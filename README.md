@@ -13,14 +13,14 @@
 `Cheat Engine Remake`
 
 ### My Languages:
-    Java *Intermediate*
-    AHKv2 *Intermediate*
-    C++ *Novice*
-    Rust *Plan to learn*
-    Assembly *Plan to learn*
-    Python *Plan to learn*
-    HTML *Plan to learn*
-    JS *Plan to learn*
+    Java *Intermediate*      🟩🟩⬛⬛
+    AHKv2 *Novice*           🟩⬛⬛⬛
+    C++ *Novice*             🟩⬛⬛⬛
+    Rust *Plan to learn*     ⬛⬛⬛⬛
+    Assembly *Plan to learn* ⬛⬛⬛⬛
+    Python *Plan to learn*   ⬛⬛⬛⬛
+    HTML *Plan to learn*     ⬛⬛⬛⬛
+    JS *Plan to learn*       ⬛⬛⬛⬛
     
     
 
