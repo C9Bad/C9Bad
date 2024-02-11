@@ -1,7 +1,8 @@
 # Welcome!
 
 ### Current Undertaking
-`Learning Rust to make TidalxSpotify App`
+`Valentines Website(HTML, JS)`
+`TidalxSpotify App(Rust)`
 
 ### My Projects:
 `N/A`
