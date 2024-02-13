@@ -16,8 +16,8 @@
 ### My Languages:
     Java *Intermediate+*     🟩🟩⬛⬛
     AHKv2 *Novice+*          🟩⬛⬛⬛
-    HTML/JS/CSS *Novice*     🟩⬛⬛⬛
+    HTML/JS/CSS *Novice+*    🟩⬛⬛⬛
+    Rust *Novice*            🟩⬛⬛⬛
     C++ *Novice-*            🟩⬛⬛⬛
-    Rust *Plan to learn*     ⬛⬛⬛⬛
     Assembly *Plan to learn* ⬛⬛⬛⬛
     Python *Plan to learn*   ⬛⬛⬛⬛
