@@ -1,12 +1,14 @@
 # Welcome!
 
 ### Current Undertaking
-`Valentines Website(HTML, JS, CSS)`
-`TidalxSpotify App(Rust)`
+`Valentines Website`
 
-### My Projects:
+### Public Projects:
 `N/A`
 😢
+
+### Private Projects:
+`Valentines Website(HTML, JS, CSS)`
 
 ### Planned Projects
 `TidalxSpotify Converter`
