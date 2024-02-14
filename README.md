@@ -14,10 +14,10 @@
 `Github Licensing Quiz(HTML, JS, CSS)`
 
 ### My Languages:
-    Java *Intermediate+*     🟩🟩⬛⬛
-    AHKv2 *Novice+*          🟩⬛⬛⬛
-    HTML/JS/CSS *Novice+*    🟩⬛⬛⬛
-    Rust *Novice*            🟩⬛⬛⬛
-    C++ *Novice-*            🟩⬛⬛⬛
-    Assembly *Plan to learn* ⬛⬛⬛⬛
-    Python *Plan to learn*   ⬛⬛⬛⬛
+    Java *Intermediate+*         🟩🟩⬛⬛
+    HTML/JS/CSS *Intermediate-*  🟩⬛⬛⬛
+    AHKv2 *Novice+*              🟩⬛⬛⬛
+    Rust *Novice*                🟩⬛⬛⬛
+    C++ *Novice-*                🟩⬛⬛⬛
+    Assembly *Plan to learn*     ⬛⬛⬛⬛
+    Python *Plan to learn*       ⬛⬛⬛⬛
