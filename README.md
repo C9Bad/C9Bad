@@ -3,7 +3,7 @@
 ### Current Undertaking
 `Cheat Engine Remake` - Learning Rust
 
-### Public Projects:
+### Cool Public Projects:
 `N/A`
 😢
 
@@ -19,7 +19,7 @@
     Java *Intermediate+*         🟩🟩⬛⬛
     AHKv2 *Intermediate*         🟩🟩⬛⬛
     HTML/JS/CSS *Intermediate-*  🟩🟩⬛⬛
-    Rust *Novice+*               🟩⬛⬛⬛
-    C++ *Novice-*                🟩⬛⬛⬛
+    Rust *Intermediate-*         🟩🟩⬛⬛
+    C++ *noob!*                  ⬛⬛⬛⬛
     Assembly *Plan to learn*     ⬛⬛⬛⬛
     Python *Plan to learn*       ⬛⬛⬛⬛
