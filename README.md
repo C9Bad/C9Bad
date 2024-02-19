@@ -1,7 +1,7 @@
 # Welcome!
 
 ### Current Undertaking
-`Cheat Engine Remake` - Learning Rust
+`Learning rust`
 
 ### Cool Public Projects:
 `N/A`
