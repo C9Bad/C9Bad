@@ -1,7 +1,7 @@
 # Welcome!
 
-### Current Undertaking
-`Learning rust + RE`
+### Discord Channel:
+`todo!()`
 
 ### Cool Public Projects:
 `N/A`
