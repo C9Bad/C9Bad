@@ -1,7 +1,7 @@
 # Welcome!
 
 ### Current Undertaking
-`Learning rust`
+`Learning rust + RE`
 
 ### Cool Public Projects:
 `N/A`
@@ -11,15 +11,15 @@
 `Valentines Website(HTML, JS, CSS)`
 
 ### Planned Projects
-`TidalxSpotify Converter`
-`Cheat Engine Remake`
+`TidalxSpotify Converter(Maybe)`
 `Github Licensing Quiz(HTML, JS, CSS)`
+`Edu Maps....(Summer project)`
 
 ### My Languages:
     Java *Intermediate+*         🟩🟩⬛⬛
     AHKv2 *Intermediate*         🟩🟩⬛⬛
     HTML/JS/CSS *Intermediate-*  🟩🟩⬛⬛
     Rust *Intermediate-*         🟩🟩⬛⬛
-    C++ *noob!*                  ⬛⬛⬛⬛
-    Assembly *Plan to learn*     ⬛⬛⬛⬛
-    Python *Plan to learn*       ⬛⬛⬛⬛
+    Assembly *Novice*            🟩⬛⬛⬛
+    Kotlin *Plan to learn*       ⬛⬛⬛⬛
+    Python *Plan to learn?*      ⬛⬛⬛⬛
