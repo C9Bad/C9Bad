@@ -1,25 +1,32 @@
-# Welcome!
+<h1 align="center">👋 Welcome!</h1>
 
-### Discord Channel:
-`todo!()`
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=C9Bad" alt="Profile views" />
+</p>
 
-### Cool Public Projects:
-`N/A`
-😢
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=C9Bad&show_icons=true&theme=ayu-mirage&hide=prs" alt="C9Bad's GitHub Stats" />
+</p>
 
-### Private Projects:
-`Valentines Website(HTML, JS, CSS)`
+<h3 align="center">Discord Channel:</h3>
+<p align="center">
+todo!()
+</p>
 
-### Planned Projects
-`TidalxSpotify Converter(Maybe)`
-`Github Licensing Quiz(HTML, JS, CSS)`
-`Edu Maps....(Summer project)`
+<h3 align="center">Planned Projects</h3>
+<p align="center">
+TidalxSpotify Converter (Maybe)<br>
+Github Licensing Quiz (HTML, JS, CSS)<br>
+Edu Maps.... (Summer project)
+</p>
 
-### My Languages:
-    Java *Intermediate+*         🟩🟩⬛⬛
-    AHKv2 *Intermediate*         🟩🟩⬛⬛
-    HTML/JS/CSS *Intermediate-*  🟩🟩⬛⬛
-    Rust *Intermediate-*         🟩🟩⬛⬛
-    Assembly *Novice*            🟩⬛⬛⬛
-    Kotlin *Plan to learn*       ⬛⬛⬛⬛
-    Python *Plan to learn?*      ⬛⬛⬛⬛
+<h3 align="center">My Languages:</h3>
+<p align="center">
+Java *Intermediate+*<br>
+AHKv2 *Intermediate*<br>
+HTML/JS/CSS *Intermediate-*<br>
+Rust *Intermediate-*<br>
+Assembly *Novice*<br>
+Kotlin *Plan to learn*<br>
+Python *Plan to learn?*
+</p>
