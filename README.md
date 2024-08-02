@@ -27,7 +27,7 @@ Python *Plan to learn?*
 //Better Desktop Notes(Planning system and everything i want)(for school) (Maybe)<br>
 //TidalxSpotify Converter (Maybe)<br>
 //Github Licensing Quiz (HTML, JS, CSS)<br>
-//Edu Maps.... (Summer project)
-Manga App
+//Edu Maps.... (Summer project)<br>
+Manga App<br>
 Neocities bio Website
 </details>
